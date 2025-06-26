@@ -9,7 +9,7 @@ The report includes multi-level views such as overview analytics, product perfor
 
 1. Overview Page  
 📷 Dashboard Preview:  
-![Overview]((/amazon%20ss/Screenshot%202025-06-26%20155014.png))
+![Overview]("amazon-ss/Screenshot%2025-06-2%155014.png")
 
 KPIs Displayed:
 - Total Sales (89,076K)

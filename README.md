@@ -31,7 +31,7 @@ Visuals:
 
 2. Product Page  
 📷 Product Preview: 
-![Product](./Screenshots/Screenshot%202025-06-26%20155145.png)
+![Product Page](amazon%20ss/Screenshot%202025-06-26%20155145.png)
 
 Product-Level Insights:
 - Interactive card view of all products
@@ -49,7 +49,7 @@ Filter Options:
 
 3. Product Detail Page  
 📷 Detail View:
-![Detail View](./Screenshots/Screenshot%202025-06-26%20155424.png)
+![Detail View](amazon%20ss/Screenshot%202025-06-26%20155424.png)
 
 Deep Dive Features:
 - Large product image display
@@ -65,7 +65,7 @@ Deep Dive Features:
 
 4. Tooltip Page  
 📷 Tooltip Preview:
-![Tooltip](./Screenshots/Screenshot%202025-06-26%20155520.png)
+![Tooltip](amazon%20ss/Screenshot%202025-06-26%20155520.png)
 
 Dynamic Tooltip View:
 - Enabled on product hover
